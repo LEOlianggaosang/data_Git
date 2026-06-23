@@ -11,4 +11,6 @@ git
 2026-06-17 github同步库，markdown语法，浏览器缓存 <br>
 2026-06-18 解构gitlens功能，清除浏览器缓存 <br>
 2026-06-22 系统性知识重构维度，增加work与vibecoding文档限制，文档添加自我指涉目录 <br>
-* shell指令概念，vscode更新记录
+* shell指令概念，vscode更新记录 <br>
+2026-06-23 增加忽略文件，忽略docx衍生文件 <br>
+* gitlens设置内容，增加选项 <br>
