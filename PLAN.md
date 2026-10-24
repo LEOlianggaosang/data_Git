@@ -12,7 +12,7 @@ tags:
 
 ## 目标
 
-本库以 Git 根目录为 Obsidian vault 根目录，用于收集、组织、提炼和输出围绕 Git、开发工具、Vibe Coding 与知识管理的资料。目录按“下一步要做什么”组织，而不是只按主题堆叠；资料来源和修改历史应可追溯。
+本库以 Git 根目录为 Obsidian vault 根目录，用于收集、组织、提炼和输出围绕 Git、开发工具、Vibe Coding、知识管理与 Copilot 能力生态的资料。Copilot 能力管理是跨范围清单，不以本仓库配置为边界；应涵盖工作区、用户配置、扩展提供、会话运行时，以及能核验的组织或远程来源。目录按“下一步要做什么”组织，而不是只按主题堆叠；资料来源和修改历史应可追溯。
 
 ## 工作方法
 
@@ -32,19 +32,57 @@ CODE 是处理信息的流程，PARA 是信息的存放位置，两者配合使�
 | Resources（资源） | 供未来参考的主题、工具、方法和资料 | 有用时保留，无用时归档 |
 | Archives（归档） | 当前不再行动但需要保留的项目、领域或资源 | 保留来源与历史，不直接删除 |
 
+## CODE + PARA 流程图
+
+下图展示从收集、按行动归入 PARA，到提炼和输出的流程。Mermaid 源文件保存在 [CODE_PARA_工作流程.mmd](90_系统/流程图/CODE_PARA_工作流程.mmd)；修改时保持源文件与下方图块同步。
+
+```mermaid
+flowchart TD
+    CAP["Capture<br/>收集"] --> INBOX["00_收集/"]
+    INBOX --> ORG{"Organize<br/>按行动与责任归类"}
+    ORG -->|有明确成果和期限| PROJECT["10_项目/"]
+    ORG -->|需要持续维护| AREA["20_领域/"]
+    ORG -->|供未来查阅| RESOURCE["30_资源/"]
+    ORG -->|暂不活跃但需保留| ARCHIVE["40_归档/"]
+    PROJECT --> DISTILL["Distill<br/>保留来源，提炼结论与链接"]
+    AREA --> DISTILL
+    RESOURCE --> DISTILL
+    DISTILL --> EXPRESS{"Express<br/>形成可复用输出？"}
+    EXPRESS -->|是| OUTPUT["项目成果 / 领域说明 / 资源笔记"]
+    EXPRESS -->|暂未形成| REVIEW["留在当前分区并定期回顾"]
+    OUTPUT --> INDEX["更新 INDEX.md<br/>及变更记录"]
+    REVIEW --> ORG
+    PROJECT -->|完成或暂停| ARCHIVE
+    AREA -->|责任终止| ARCHIVE
+    RESOURCE -->|不再适用| ARCHIVE
+    ARCHIVE -->|重新启用| ORG
+```
+
 ## 目录结构
 
 ```text
 00_收集/             待整理输入
 10_项目/             有明确结果和完成条件的工作
-20_领域/             持续维护的责任；知识管理和日记归此
+20_领域/             持续维护的责任；知识管理、Agent Harness 管理和日记归此
+  AgentHarness管理/
+    Harnesses/
+    Hooks/
+    MCP/
+    插件/
+    技能/
+    工具/
+    指令/
+    智能体/
 30_资源/             Git、开发工具、方法论等参考资料
 40_归档/             暂不活跃但需要保留的内容
-90_系统/             模板、索引维护规则和变更记录
+90_系统/             流程图、模板、维护说明和变更记录
+  流程图/
   模板/
 ```
 
 `.obsidian/`、`.github/` 和 `.vscode/` 是工具配置目录，保留在根目录，不归入 PARA。根目录的 `PLAN.md`、`INDEX.md`、`AGENT.md` 分别承担规划、导航和约束职责。
+
+Copilot 可用的 Harness、插件、技能、工具、MCP、智能体、Hooks 和指令的发现、兼容性、权限、来源与状态属于持续责任，统一登记在 `20_领域/AgentHarness管理/`，范围不局限于本库。每条记录区分工作区、用户配置、扩展提供、会话运行时、组织/远程服务等来源；厂商手册等通用参考资料可留在 `30_资源/` 并从管理条目链接。可用能力会随账号、设备、扩展、配置、权限和会话变化，索引必须记录清点来源与日期，不把单次快照宣称为永久或全球完整清单。
 
 ## 现有资料归位
 
