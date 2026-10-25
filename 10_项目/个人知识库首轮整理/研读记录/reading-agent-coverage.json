@@ -1,0 +1,604 @@
+﻿[
+    {
+        "id":  "agent-0001",
+        "relative_path":  ".github\\copilot-instructions.md",
+        "baseline_sha256":  "34E9D3301241F3488F67E71CD8576707AE3610F4B98A804C768408FE7319BA4C",
+        "read_sha256":  "34E9D3301241F3488F67E71CD8576707AE3610F4B98A804C768408FE7319BA4C",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  11
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0002",
+        "relative_path":  ".github\\instructions\\mermaid.instructions.md",
+        "baseline_sha256":  "6A91984BB661CEF3F6E10C9922C821D2C3726E7509E3206A6F0DDEB7A7BE253A",
+        "read_sha256":  "6A91984BB661CEF3F6E10C9922C821D2C3726E7509E3206A6F0DDEB7A7BE253A",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  86
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0003",
+        "relative_path":  "00_收集\\收集箱说明.md",
+        "baseline_sha256":  "426F28F73AF0CBCD2D949AC4AF1B89941D2254E80A55786FB3616C04269DF183",
+        "read_sha256":  "426F28F73AF0CBCD2D949AC4AF1B89941D2254E80A55786FB3616C04269DF183",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  19
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0004",
+        "relative_path":  "10_项目\\个人知识库首轮整理\\任务看板.md",
+        "baseline_sha256":  "B4FA9A357417163A8BE5AFA90C8B2D35204A35EFB814F9E784430F2D2E6C3759",
+        "read_sha256":  "B4FA9A357417163A8BE5AFA90C8B2D35204A35EFB814F9E784430F2D2E6C3759",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  62
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0005",
+        "relative_path":  "10_项目\\个人知识库首轮整理\\试点与验收.md",
+        "baseline_sha256":  "BAE53B05710D2658F3F5220CED39E2A4123E385D95C351E3FAF7FFC5D45F1E46",
+        "read_sha256":  "BAE53B05710D2658F3F5220CED39E2A4123E385D95C351E3FAF7FFC5D45F1E46",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  70
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0006",
+        "relative_path":  "10_项目\\个人知识库首轮整理\\现状诊断.md",
+        "baseline_sha256":  "0CAEE0D83A26B2D9155B2CDA12286249E661E2A2B9BA7458955044763A9A9F3F",
+        "read_sha256":  "0CAEE0D83A26B2D9155B2CDA12286249E661E2A2B9BA7458955044763A9A9F3F",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  86
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0007",
+        "relative_path":  "10_项目\\个人知识库首轮整理\\项目总览.md",
+        "baseline_sha256":  "568B32F63F949740DF7454D89BF57F2AA374DC004ADA7224902070C65BE32680",
+        "read_sha256":  "568B32F63F949740DF7454D89BF57F2AA374DC004ADA7224902070C65BE32680",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  91
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0008",
+        "relative_path":  "10_项目\\项目区说明.md",
+        "baseline_sha256":  "F74BC5948D62475D1CF4A37AF86123ACB0E1B549C6726FFEEBC70995AAB8A6AB",
+        "read_sha256":  "F74BC5948D62475D1CF4A37AF86123ACB0E1B549C6726FFEEBC70995AAB8A6AB",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  20
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0009",
+        "relative_path":  "20_领域\\AgentHarness管理\\Harnesses\\Harnesses索引.md",
+        "baseline_sha256":  "1F9705831E38B6C55FBC84F574106042AF55D2F11A1A9F5ACD2A589BD583C9F6",
+        "read_sha256":  "1F9705831E38B6C55FBC84F574106042AF55D2F11A1A9F5ACD2A589BD583C9F6",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  19
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0010",
+        "relative_path":  "20_领域\\AgentHarness管理\\Hooks\\Hooks索引.md",
+        "baseline_sha256":  "DC27DC2A2228CCC0942A0D995BE065C81A474EEA107D2463C765305E43F81F87",
+        "read_sha256":  "DC27DC2A2228CCC0942A0D995BE065C81A474EEA107D2463C765305E43F81F87",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  24
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0011",
+        "relative_path":  "20_领域\\AgentHarness管理\\MCP\\MCP索引.md",
+        "baseline_sha256":  "0B5FE75D545CB7729F6C2E63A01134F220BA46E850B231FFEEB5C077F57CD3A3",
+        "read_sha256":  "0B5FE75D545CB7729F6C2E63A01134F220BA46E850B231FFEEB5C077F57CD3A3",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  37
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0012",
+        "relative_path":  "20_领域\\AgentHarness管理\\插件\\插件索引.md",
+        "baseline_sha256":  "00CF9A7E0F3026B7A833C1242C3499399E7C7C9613DC0E2EF623F616D14612B3",
+        "read_sha256":  "00CF9A7E0F3026B7A833C1242C3499399E7C7C9613DC0E2EF623F616D14612B3",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  25
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0013",
+        "relative_path":  "20_领域\\AgentHarness管理\\工具\\工具索引.md",
+        "baseline_sha256":  "7D1FD9563E1981B3907420EF1767B06DFC734DDD189D29225B682C5F6D0733FF",
+        "read_sha256":  "7D1FD9563E1981B3907420EF1767B06DFC734DDD189D29225B682C5F6D0733FF",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  71
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0014",
+        "relative_path":  "20_领域\\AgentHarness管理\\管理总览.md",
+        "baseline_sha256":  "6037C599BD1018599EBB156D5984672575D392700644CE995FB8C30F85744AF7",
+        "read_sha256":  "6037C599BD1018599EBB156D5984672575D392700644CE995FB8C30F85744AF7",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  53
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0015",
+        "relative_path":  "20_领域\\AgentHarness管理\\技能\\技能索引.md",
+        "baseline_sha256":  "4AAA9AFFA93ED5A32E6B9C027D19415DA7A35EB38B4A4910E71A7C68E6C0BD1E",
+        "read_sha256":  "4AAA9AFFA93ED5A32E6B9C027D19415DA7A35EB38B4A4910E71A7C68E6C0BD1E",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  48
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0016",
+        "relative_path":  "20_领域\\AgentHarness管理\\指令\\指令索引.md",
+        "baseline_sha256":  "1756CCD8B49C89023F0235F12DCDBFF7FB6617C959548DAF45BBA8868E64DDA3",
+        "read_sha256":  "1756CCD8B49C89023F0235F12DCDBFF7FB6617C959548DAF45BBA8868E64DDA3",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  24
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0017",
+        "relative_path":  "20_领域\\AgentHarness管理\\智能体\\智能体索引.md",
+        "baseline_sha256":  "619EF018A2E23CDA998502D941BF584A05959D42524999FB102A175761489A2E",
+        "read_sha256":  "619EF018A2E23CDA998502D941BF584A05959D42524999FB102A175761489A2E",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  37
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0018",
+        "relative_path":  "20_领域\\领域区说明.md",
+        "baseline_sha256":  "72D7C0B1EA315167F00284F1F7320CF770DD6F8DDF55CA597D2CAEDCFAF07267",
+        "read_sha256":  "72D7C0B1EA315167F00284F1F7320CF770DD6F8DDF55CA597D2CAEDCFAF07267",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  20
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0019",
+        "relative_path":  "20_领域\\知识管理\\个人知识库维护.md",
+        "baseline_sha256":  "2E6F50E5F769D699EF8089D5B9BC17727B01E03A2D0528F1A1308E0138F67D1E",
+        "read_sha256":  "2E6F50E5F769D699EF8089D5B9BC17727B01E03A2D0528F1A1308E0138F67D1E",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  75
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0020",
+        "relative_path":  "20_领域\\知识管理\\知识管理.md",
+        "baseline_sha256":  "5CAC79054D120F9AEC3563E945813F4817A46EFDDA557D4565BBEE2509E83932",
+        "read_sha256":  "5CAC79054D120F9AEC3563E945813F4817A46EFDDA557D4565BBEE2509E83932",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  40
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0021",
+        "relative_path":  "30_资源\\版本控制\\Git.md",
+        "baseline_sha256":  "04509FD917D7D5B1CFE1128F9B30CDE2AA2944D7002DE6B466BB1236AB270B4B",
+        "read_sha256":  "04509FD917D7D5B1CFE1128F9B30CDE2AA2944D7002DE6B466BB1236AB270B4B",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  17
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0022",
+        "relative_path":  "30_资源\\方法论\\VibeCoding.md",
+        "baseline_sha256":  "7490472B266A1DBA1535601369A03F65F48B17EA605ACC21702D6561015782B3",
+        "read_sha256":  "7490472B266A1DBA1535601369A03F65F48B17EA605ACC21702D6561015782B3",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  14
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0023",
+        "relative_path":  "30_资源\\开发工具\\VS_Code.md",
+        "baseline_sha256":  "0F7225752B2CD6D31F66AC15B3D52B5E5509B073DA940CD5F1A339D3724BEC80",
+        "read_sha256":  "0F7225752B2CD6D31F66AC15B3D52B5E5509B073DA940CD5F1A339D3724BEC80",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  14
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0024",
+        "relative_path":  "30_资源\\资源区说明.md",
+        "baseline_sha256":  "D0968DB33A12175B1A5124B60E75A9C9AAA051079C7F2438B85FC17E4086473F",
+        "read_sha256":  "D0968DB33A12175B1A5124B60E75A9C9AAA051079C7F2438B85FC17E4086473F",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  16
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0025",
+        "relative_path":  "40_归档\\README早期记录_2026-06至07.md",
+        "baseline_sha256":  "E660051DE2C4F524CE450781E6872EA15132D6726F6A2BCEE57A34D2D3EC7135",
+        "read_sha256":  "E660051DE2C4F524CE450781E6872EA15132D6726F6A2BCEE57A34D2D3EC7135",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  42
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0026",
+        "relative_path":  "40_归档\\归档区说明.md",
+        "baseline_sha256":  "815EC0B71B20029A2B6AD5C554951322EED794EEAB834A22E4FBFC9625121598",
+        "read_sha256":  "815EC0B71B20029A2B6AD5C554951322EED794EEAB834A22E4FBFC9625121598",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  18
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0027",
+        "relative_path":  "90_系统\\Agent工作日志说明.md",
+        "baseline_sha256":  "8293DFACDD7B7D0559845D8B9D3480BAC25E41B07D3A5D977D4E45A72AEAA5FB",
+        "read_sha256":  "8293DFACDD7B7D0559845D8B9D3480BAC25E41B07D3A5D977D4E45A72AEAA5FB",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  50
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0028",
+        "relative_path":  "90_系统\\变更记录.md",
+        "baseline_sha256":  "6F95F9DCD3C185BC7B05A46BAA6C894D145274FC25D9CCF57306447D0B2C4007",
+        "read_sha256":  "6F95F9DCD3C185BC7B05A46BAA6C894D145274FC25D9CCF57306447D0B2C4007",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  23
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0029",
+        "relative_path":  "90_系统\\变更记录\\2026-10-24.md",
+        "baseline_sha256":  "C6424982F6F77E9C720871B27AA619B194149995407FB82C04021D332AC4AA3E",
+        "read_sha256":  "C6424982F6F77E9C720871B27AA619B194149995407FB82C04021D332AC4AA3E",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  56
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0030",
+        "relative_path":  "90_系统\\变更记录\\2026-10-25.md",
+        "baseline_sha256":  "7B511F346B7761093557B1CCAD6F554E3760F09F51B86FF51C5E68C7D99074F9",
+        "read_sha256":  "7B511F346B7761093557B1CCAD6F554E3760F09F51B86FF51C5E68C7D99074F9",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  96
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0031",
+        "relative_path":  "90_系统\\会话记录\\2026-10-25_2024_Agent维护.md",
+        "baseline_sha256":  "5C20C49E86BEDCA2AFCBC98EB32EF2C096345CE305B4CE5021908EB290AC510F",
+        "read_sha256":  "5C20C49E86BEDCA2AFCBC98EB32EF2C096345CE305B4CE5021908EB290AC510F",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  26
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0032",
+        "relative_path":  "90_系统\\会话记录\\2026-10-25_2036_知识库探索.md",
+        "baseline_sha256":  "440D90509F19518ECFFFD18ACE864D3D498DA7E7E0F63948571178655BA48E4E",
+        "read_sha256":  "440D90509F19518ECFFFD18ACE864D3D498DA7E7E0F63948571178655BA48E4E",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  30
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0033",
+        "relative_path":  "90_系统\\会话记录\\2026-10-25_2115_暂存与提交.md",
+        "baseline_sha256":  "28645FC8A492E417C4B07567E369EDAE91F358EDC76791CE6EED04BA573DD9DE",
+        "read_sha256":  "28645FC8A492E417C4B07567E369EDAE91F358EDC76791CE6EED04BA573DD9DE",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  21
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0034",
+        "relative_path":  "90_系统\\流程图\\CODE_PARA_工作流程.mmd",
+        "baseline_sha256":  "D9974C3DEECE80D4407E5F9B1DC7551D4F5FE5196C2029B8F3618B08FF5AFA2C",
+        "read_sha256":  "D9974C3DEECE80D4407E5F9B1DC7551D4F5FE5196C2029B8F3618B08FF5AFA2C",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  20
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0035",
+        "relative_path":  "90_系统\\模板\\Agent能力条目模板.md",
+        "baseline_sha256":  "595BC6C4C503548426EC164B0E33E1A12B14B94F0139F9AA9628428E8349A371",
+        "read_sha256":  "595BC6C4C503548426EC164B0E33E1A12B14B94F0139F9AA9628428E8349A371",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  47
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0036",
+        "relative_path":  "90_系统\\模板\\每日笔记模板.md",
+        "baseline_sha256":  "E74A10418AC5294829C9130E7856C41EC28D62B4A604A722516547E5E77FAF56",
+        "read_sha256":  "E74A10418AC5294829C9130E7856C41EC28D62B4A604A722516547E5E77FAF56",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  23
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0037",
+        "relative_path":  "90_系统\\模板\\通用笔记模板.md",
+        "baseline_sha256":  "4728D23D291A69A3801DA57DC2F6835AC8AE1739EB1B1AFFCD32F2685F2476C6",
+        "read_sha256":  "4728D23D291A69A3801DA57DC2F6835AC8AE1739EB1B1AFFCD32F2685F2476C6",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  18
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0038",
+        "relative_path":  "90_系统\\模板\\项目笔记模板.md",
+        "baseline_sha256":  "C6FE249806BD1CBFEF9FCCD435607C107C7E31E843E98367830F7C091FC20736",
+        "read_sha256":  "C6FE249806BD1CBFEF9FCCD435607C107C7E31E843E98367830F7C091FC20736",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  24
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0039",
+        "relative_path":  "90_系统\\系统说明.md",
+        "baseline_sha256":  "135B4C03BB61A09F88A370EF4B7A0C30659A53948F6D311836FDCEFF53E0CA06",
+        "read_sha256":  "135B4C03BB61A09F88A370EF4B7A0C30659A53948F6D311836FDCEFF53E0CA06",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  22
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0040",
+        "relative_path":  "AGENT.md",
+        "baseline_sha256":  "3B700FE8163FCA727E08115F169A9D74F8BCCDE7209EC15EB04DF2FB885283BF",
+        "read_sha256":  "3B700FE8163FCA727E08115F169A9D74F8BCCDE7209EC15EB04DF2FB885283BF",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  53
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0041",
+        "relative_path":  "INDEX.md",
+        "baseline_sha256":  "7A0291D1C5058B8A3A31FE597D611122BDC0EA45657B7FAE9E74D8078D2C3B83",
+        "read_sha256":  "7A0291D1C5058B8A3A31FE597D611122BDC0EA45657B7FAE9E74D8078D2C3B83",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  152
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0042",
+        "relative_path":  "PLAN.md",
+        "baseline_sha256":  "A8A8A25C0EF2C5913DE6D8EC19D4525766EF72E46B8D843CEC3D355C65CA675C",
+        "read_sha256":  "A8A8A25C0EF2C5913DE6D8EC19D4525766EF72E46B8D843CEC3D355C65CA675C",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  84
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    },
+    {
+        "id":  "agent-0043",
+        "relative_path":  "README.md",
+        "baseline_sha256":  "5AECFA0664200EA674CB3C1F096BD4FA094C8AAE9961302FD411D977A532FBB1",
+        "read_sha256":  "5AECFA0664200EA674CB3C1F096BD4FA094C8AAE9961302FD411D977A532FBB1",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "start_line":  1,
+                                "end_line":  19
+                            }
+                        ],
+        "method":  "Main agent read full contents with view; long daily record read in two contiguous ranges."
+    }
+]

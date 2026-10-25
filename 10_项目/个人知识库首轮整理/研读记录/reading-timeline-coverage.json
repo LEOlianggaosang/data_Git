@@ -1,0 +1,2820 @@
+﻿[
+    {
+        "id":  "personal-0076",
+        "relative_path":  "1-Dayly_日记本\\0文件夹：1-Dayly_日记本.md",
+        "baseline_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "read_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "status":  "empty",
+        "read_ranges":  [
+
+                        ],
+        "line_count":  0,
+        "read_bytes":  0,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "现场0字节，原始字节SHA256与清单一致；无正文。"
+    },
+    {
+        "id":  "personal-0077",
+        "relative_path":  "1-Dayly_日记本\\11-Journals_日历\\0文件夹：11-Journals_日历.md",
+        "baseline_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "read_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "status":  "empty",
+        "read_ranges":  [
+
+                        ],
+        "line_count":  0,
+        "read_bytes":  0,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "现场0字节，原始字节SHA256与清单一致；无正文。"
+    },
+    {
+        "id":  "personal-0078",
+        "relative_path":  "1-Dayly_日记本\\12-TimeLine_时间线\\0文件夹：12-TimeLine_时间线.md",
+        "baseline_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "read_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "status":  "empty",
+        "read_ranges":  [
+
+                        ],
+        "line_count":  0,
+        "read_bytes":  0,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "现场0字节，原始字节SHA256与清单一致；无正文。"
+    },
+    {
+        "id":  "personal-0079",
+        "relative_path":  "1-Dayly_日记本\\12-TimeLine_时间线\\2026-07.md",
+        "baseline_sha256":  "7FAF8B2E2CB8D28217EF893035D940D146BE5B43E622070C9D6ABED542B0CF20",
+        "read_sha256":  "7FAF8B2E2CB8D28217EF893035D940D146BE5B43E622070C9D6ABED542B0CF20",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  38,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  38,
+        "read_bytes":  819,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0080",
+        "relative_path":  "1-Dayly_日记本\\12-TimeLine_时间线\\2026-08.md",
+        "baseline_sha256":  "39CADCAE92DE68B157FB6E7332BA46437415F4C6639E47163AB7C0C6AC7D772E",
+        "read_sha256":  "39CADCAE92DE68B157FB6E7332BA46437415F4C6639E47163AB7C0C6AC7D772E",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  23,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  23,
+        "read_bytes":  409,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0081",
+        "relative_path":  "1-Dayly_日记本\\12-TimeLine_时间线\\2026-09.md",
+        "baseline_sha256":  "61907C511926FB74761B535D7A5D47CD9F2883189909F7E4C472F49421DABE8E",
+        "read_sha256":  "61907C511926FB74761B535D7A5D47CD9F2883189909F7E4C472F49421DABE8E",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  8,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  8,
+        "read_bytes":  70,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0082",
+        "relative_path":  "1-Dayly_日记本\\2026-08-01-星期六.md",
+        "baseline_sha256":  "BC7A38A815F9FFB89AC213EB1A86582862DA328E007F110536DEE54F3A53DE3E",
+        "read_sha256":  "BC7A38A815F9FFB89AC213EB1A86582862DA328E007F110536DEE54F3A53DE3E",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  43,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  43,
+        "read_bytes":  1779,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0083",
+        "relative_path":  "1-Dayly_日记本\\2026-08-02-星期日.md",
+        "baseline_sha256":  "3D282D7CCB976C161B12FAB695DF0DAF229D42E0173053B5A7BADFA95982AD19",
+        "read_sha256":  "3D282D7CCB976C161B12FAB695DF0DAF229D42E0173053B5A7BADFA95982AD19",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  44,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  44,
+        "read_bytes":  1166,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0084",
+        "relative_path":  "1-Dayly_日记本\\2026-08-03-星期一.md",
+        "baseline_sha256":  "354005C79AC4AFADEC63F6A7C36EF45E574845689BCA9586F3E7301BE7C68AE7",
+        "read_sha256":  "354005C79AC4AFADEC63F6A7C36EF45E574845689BCA9586F3E7301BE7C68AE7",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  107,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  107,
+        "read_bytes":  4066,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0085",
+        "relative_path":  "1-Dayly_日记本\\2026-08-04-星期二.md",
+        "baseline_sha256":  "DE1A9EB869773842DDAAD164B7686022504EF21C3B2653D9AE78D3C23C6F3D5B",
+        "read_sha256":  "DE1A9EB869773842DDAAD164B7686022504EF21C3B2653D9AE78D3C23C6F3D5B",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  81,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  81,
+        "read_bytes":  2244,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0086",
+        "relative_path":  "1-Dayly_日记本\\2026-08-05-星期三.md",
+        "baseline_sha256":  "8230B0CA225089EAD6618462BE2ABC7E8B2F3F498D79E190E2A56E249B3E150F",
+        "read_sha256":  "8230B0CA225089EAD6618462BE2ABC7E8B2F3F498D79E190E2A56E249B3E150F",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  53,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  53,
+        "read_bytes":  1288,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0087",
+        "relative_path":  "1-Dayly_日记本\\2026-08-06-星期四.md",
+        "baseline_sha256":  "DDE60325AAECC75B3C9EF6F657DE35E32F4DAEBA85E1BD53B1368FE81DC25159",
+        "read_sha256":  "DDE60325AAECC75B3C9EF6F657DE35E32F4DAEBA85E1BD53B1368FE81DC25159",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  45,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  45,
+        "read_bytes":  1381,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0088",
+        "relative_path":  "1-Dayly_日记本\\2026-08-07-星期五.md",
+        "baseline_sha256":  "7626A80412399A84600117FAED50C502EA59815AF900CAFF718F9FB51409513E",
+        "read_sha256":  "7626A80412399A84600117FAED50C502EA59815AF900CAFF718F9FB51409513E",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  41,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  41,
+        "read_bytes":  1255,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0089",
+        "relative_path":  "1-Dayly_日记本\\2026-08-08-星期六.md",
+        "baseline_sha256":  "AE53C7FD17AA7BE48B3D05AEF2A23C7FB49E25809DD3217D21DF1C1290A1955D",
+        "read_sha256":  "AE53C7FD17AA7BE48B3D05AEF2A23C7FB49E25809DD3217D21DF1C1290A1955D",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  59,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  59,
+        "read_bytes":  2058,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0090",
+        "relative_path":  "1-Dayly_日记本\\2026-08-09-星期日.md",
+        "baseline_sha256":  "805856E33CD9021D7B5C4BE48805EED2954D0E6D08718F85D2504390D42897AC",
+        "read_sha256":  "805856E33CD9021D7B5C4BE48805EED2954D0E6D08718F85D2504390D42897AC",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  30,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  30,
+        "read_bytes":  1323,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0091",
+        "relative_path":  "1-Dayly_日记本\\2026-08-10-星期一.md",
+        "baseline_sha256":  "CF4AE93AFA9D43CBFC050CB749395A84DDB6D324B2BAAC16BD6EC6149DAC6501",
+        "read_sha256":  "CF4AE93AFA9D43CBFC050CB749395A84DDB6D324B2BAAC16BD6EC6149DAC6501",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  50,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  50,
+        "read_bytes":  1558,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0092",
+        "relative_path":  "1-Dayly_日记本\\2026-08-11-星期二.md",
+        "baseline_sha256":  "80419A40229C83BBE59CEAC564007EA84837FB5E1B3E04F31914AB1F687F8849",
+        "read_sha256":  "80419A40229C83BBE59CEAC564007EA84837FB5E1B3E04F31914AB1F687F8849",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  57,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  57,
+        "read_bytes":  2073,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0093",
+        "relative_path":  "1-Dayly_日记本\\2026-08-12-星期三.md",
+        "baseline_sha256":  "9BA75D4D984D0E335E7777EB8501D4F5B8BDB8CFBE107428397AAEA29FD54FEF",
+        "read_sha256":  "9BA75D4D984D0E335E7777EB8501D4F5B8BDB8CFBE107428397AAEA29FD54FEF",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  104,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  104,
+        "read_bytes":  3432,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0094",
+        "relative_path":  "1-Dayly_日记本\\2026-08-13-星期四.md",
+        "baseline_sha256":  "DCE10C703C541092022A340C4792D78872E9C7CC7A9B5C7BE9DA7B1FA2034E8A",
+        "read_sha256":  "DCE10C703C541092022A340C4792D78872E9C7CC7A9B5C7BE9DA7B1FA2034E8A",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  83,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  83,
+        "read_bytes":  3552,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0095",
+        "relative_path":  "1-Dayly_日记本\\2026-08-14-星期五.md",
+        "baseline_sha256":  "C8C3A940B68C132D005C274F81E3BBE4603BD826C2F322BE60C1ED6ADC2BC905",
+        "read_sha256":  "C8C3A940B68C132D005C274F81E3BBE4603BD826C2F322BE60C1ED6ADC2BC905",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  32,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  32,
+        "read_bytes":  1966,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0096",
+        "relative_path":  "1-Dayly_日记本\\2026-08-15-星期六.md",
+        "baseline_sha256":  "55000504D9FABA7E07662E95F4AEFDC9E3AAD546051551C9CF1B27FE22E6EEBE",
+        "read_sha256":  "55000504D9FABA7E07662E95F4AEFDC9E3AAD546051551C9CF1B27FE22E6EEBE",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  29,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  29,
+        "read_bytes":  1198,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0097",
+        "relative_path":  "1-Dayly_日记本\\2026-08-16-星期日.md",
+        "baseline_sha256":  "AAD6F29C4FE51CD2D492C1E944604BD9D21AB92969FC0BFD94E856F3070AF583",
+        "read_sha256":  "AAD6F29C4FE51CD2D492C1E944604BD9D21AB92969FC0BFD94E856F3070AF583",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  45,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  45,
+        "read_bytes":  1850,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0098",
+        "relative_path":  "1-Dayly_日记本\\2026-08-17-星期一.md",
+        "baseline_sha256":  "989D559C1CCB820B676ACEA1B55BEA45F0AA6EEECB48FB1FF83F3F8049C00723",
+        "read_sha256":  "989D559C1CCB820B676ACEA1B55BEA45F0AA6EEECB48FB1FF83F3F8049C00723",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  67,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  67,
+        "read_bytes":  2087,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0099",
+        "relative_path":  "1-Dayly_日记本\\2026-08-18-星期二.md",
+        "baseline_sha256":  "220311357B6807B9983B88452A5C22D9F66BAF7E58D327BD51979D1BD5244FDC",
+        "read_sha256":  "220311357B6807B9983B88452A5C22D9F66BAF7E58D327BD51979D1BD5244FDC",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  27,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  27,
+        "read_bytes":  1321,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0100",
+        "relative_path":  "1-Dayly_日记本\\2026-08-19-星期三.md",
+        "baseline_sha256":  "27FF8227311835F7777060A4F4ABA005B04CAEC29D33C051B531364BB57652ED",
+        "read_sha256":  "27FF8227311835F7777060A4F4ABA005B04CAEC29D33C051B531364BB57652ED",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  50,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  50,
+        "read_bytes":  2373,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0101",
+        "relative_path":  "1-Dayly_日记本\\2026-08-20-星期四.md",
+        "baseline_sha256":  "23FD60D162CAF4710E8A90FA1C28678B8E2689D5CF59931E85910168EEA79ABD",
+        "read_sha256":  "23FD60D162CAF4710E8A90FA1C28678B8E2689D5CF59931E85910168EEA79ABD",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  40,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  40,
+        "read_bytes":  1875,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0102",
+        "relative_path":  "1-Dayly_日记本\\2026-08-21-星期五.md",
+        "baseline_sha256":  "D700E799103767DA15677D5DFBACFB44B801AE8A83C88A584A45891483C3F697",
+        "read_sha256":  "D700E799103767DA15677D5DFBACFB44B801AE8A83C88A584A45891483C3F697",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  71,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  71,
+        "read_bytes":  4470,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0103",
+        "relative_path":  "1-Dayly_日记本\\2026-08-22-星期六.md",
+        "baseline_sha256":  "1C62AB4B5659FBBFF3D693169BFB779201C407F30C101E2D43ECE19D762EE993",
+        "read_sha256":  "1C62AB4B5659FBBFF3D693169BFB779201C407F30C101E2D43ECE19D762EE993",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  37,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  37,
+        "read_bytes":  2211,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0104",
+        "relative_path":  "1-Dayly_日记本\\2026-08-23-星期日.md",
+        "baseline_sha256":  "BD5AA223131A2F5ACCE41D7BE1DBE55A4ECCCFF49EEE32280B92295C45D34311",
+        "read_sha256":  "BD5AA223131A2F5ACCE41D7BE1DBE55A4ECCCFF49EEE32280B92295C45D34311",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  40,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  40,
+        "read_bytes":  3277,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0105",
+        "relative_path":  "1-Dayly_日记本\\2026-08-24-星期一.md",
+        "baseline_sha256":  "C7E178AE2ACC524769FB8B86A4025F9F215693F3F47C3E37129E75AB59DC76C0",
+        "read_sha256":  "C7E178AE2ACC524769FB8B86A4025F9F215693F3F47C3E37129E75AB59DC76C0",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  80,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  80,
+        "read_bytes":  4798,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0106",
+        "relative_path":  "1-Dayly_日记本\\2026-08-25-星期二.md",
+        "baseline_sha256":  "76497453D06AF1EB8F08D2A1384ECC8CCE8FC9CC40E8AD55F79173B5997705FB",
+        "read_sha256":  "76497453D06AF1EB8F08D2A1384ECC8CCE8FC9CC40E8AD55F79173B5997705FB",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  68,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  68,
+        "read_bytes":  3151,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0107",
+        "relative_path":  "1-Dayly_日记本\\2026-08-26-星期三.md",
+        "baseline_sha256":  "6577DCADA6630D7B64B1B97EC98FFA3713C0C014E6C617E24E618347EB746952",
+        "read_sha256":  "6577DCADA6630D7B64B1B97EC98FFA3713C0C014E6C617E24E618347EB746952",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  52,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  52,
+        "read_bytes":  2288,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0108",
+        "relative_path":  "1-Dayly_日记本\\2026-08-27-星期四.md",
+        "baseline_sha256":  "43298356B9C938735B963CCF6A0E8DB2A92BDB36A1C467273F86835273E0B5F3",
+        "read_sha256":  "43298356B9C938735B963CCF6A0E8DB2A92BDB36A1C467273F86835273E0B5F3",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  70,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  70,
+        "read_bytes":  2969,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0109",
+        "relative_path":  "1-Dayly_日记本\\2026-08-28-星期五.md",
+        "baseline_sha256":  "A5F1D3FD7D287BEDA7B4EB7CC4AC9AA21D4B8A308E51056C0CFD9551AE3D9F85",
+        "read_sha256":  "A5F1D3FD7D287BEDA7B4EB7CC4AC9AA21D4B8A308E51056C0CFD9551AE3D9F85",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  67,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  67,
+        "read_bytes":  3121,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0110",
+        "relative_path":  "1-Dayly_日记本\\2026-08-29-星期六.md",
+        "baseline_sha256":  "228B0331D363B7228D898B56A9E05AA87B52753B89F3D4F26E0A5C97D8302DF7",
+        "read_sha256":  "228B0331D363B7228D898B56A9E05AA87B52753B89F3D4F26E0A5C97D8302DF7",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  68,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  68,
+        "read_bytes":  3363,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0111",
+        "relative_path":  "1-Dayly_日记本\\2026-08-30-星期日.md",
+        "baseline_sha256":  "C00598B860087E3426561AFE42EA992D3FA19C9F82D63741BA249A3C1C6C9664",
+        "read_sha256":  "C00598B860087E3426561AFE42EA992D3FA19C9F82D63741BA249A3C1C6C9664",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  61,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  61,
+        "read_bytes":  2475,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0112",
+        "relative_path":  "1-Dayly_日记本\\2026-08-31-星期一.md",
+        "baseline_sha256":  "CE5524E29E80703D60298440A30D24CB48CC3FD4C4051EB9A6FE49553B0CD076",
+        "read_sha256":  "CE5524E29E80703D60298440A30D24CB48CC3FD4C4051EB9A6FE49553B0CD076",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  62,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  62,
+        "read_bytes":  2155,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0113",
+        "relative_path":  "1-Dayly_日记本\\2026-09-01-星期二.md",
+        "baseline_sha256":  "5FA4E8012D7003F184727B4CB22CB75219663F9DB3E5D7C3AC80F469D6B9367C",
+        "read_sha256":  "5FA4E8012D7003F184727B4CB22CB75219663F9DB3E5D7C3AC80F469D6B9367C",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  59,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  59,
+        "read_bytes":  2163,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0114",
+        "relative_path":  "1-Dayly_日记本\\2026-09-02-星期三.md",
+        "baseline_sha256":  "70867502F2707CBF6BA697FD504773C0281723CF3247B746BCF1982B7CD27FE6",
+        "read_sha256":  "70867502F2707CBF6BA697FD504773C0281723CF3247B746BCF1982B7CD27FE6",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  107,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  107,
+        "read_bytes":  5904,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0115",
+        "relative_path":  "1-Dayly_日记本\\2026-09-03-星期四.md",
+        "baseline_sha256":  "97F275EEDAA758E96CCE5D2A919421EAF785922845C99B3C62E4E3CDCB142E59",
+        "read_sha256":  "97F275EEDAA758E96CCE5D2A919421EAF785922845C99B3C62E4E3CDCB142E59",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  43,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  43,
+        "read_bytes":  2075,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0116",
+        "relative_path":  "1-Dayly_日记本\\2026-09-04-星期五.md",
+        "baseline_sha256":  "3403A8450DA67843DF580CC87C9E8A71EA6BA3687480A9178BDC18F5AD9EB1BD",
+        "read_sha256":  "3403A8450DA67843DF580CC87C9E8A71EA6BA3687480A9178BDC18F5AD9EB1BD",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  59,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  59,
+        "read_bytes":  2685,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0117",
+        "relative_path":  "1-Dayly_日记本\\2026-09-05-星期六.md",
+        "baseline_sha256":  "99C4D6D661F28AAF68B2335F04C36FC9A9B5EC59EA6DB65B79A33BCF542690AC",
+        "read_sha256":  "99C4D6D661F28AAF68B2335F04C36FC9A9B5EC59EA6DB65B79A33BCF542690AC",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  56,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  56,
+        "read_bytes":  2368,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0118",
+        "relative_path":  "1-Dayly_日记本\\2026-09-06-星期日.md",
+        "baseline_sha256":  "9165099108519D541D28B75B19E692E57AC3C4FB2F8BB94F67BD399647A76EBD",
+        "read_sha256":  "9165099108519D541D28B75B19E692E57AC3C4FB2F8BB94F67BD399647A76EBD",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  40,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  40,
+        "read_bytes":  1791,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0119",
+        "relative_path":  "1-Dayly_日记本\\2026-09-07-星期一.md",
+        "baseline_sha256":  "F1C73EF9B778679679FB8BC64728B3A0CCC4E285C762B27F2A75709AC415E870",
+        "read_sha256":  "F1C73EF9B778679679FB8BC64728B3A0CCC4E285C762B27F2A75709AC415E870",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  73,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  73,
+        "read_bytes":  2119,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0120",
+        "relative_path":  "1-Dayly_日记本\\2026-09-08-星期二.md",
+        "baseline_sha256":  "C0ACA11F8522E11885A881E344F05738C33A9BAB3490FFBBBC54D5982A709093",
+        "read_sha256":  "C0ACA11F8522E11885A881E344F05738C33A9BAB3490FFBBBC54D5982A709093",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  54,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  54,
+        "read_bytes":  2994,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0121",
+        "relative_path":  "1-Dayly_日记本\\2026-09-09-星期三.md",
+        "baseline_sha256":  "31F679F60B8157E4896BE33009068CF98CB841295AC12B501396169073E8F0B3",
+        "read_sha256":  "31F679F60B8157E4896BE33009068CF98CB841295AC12B501396169073E8F0B3",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  181,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  181,
+        "read_bytes":  5420,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0122",
+        "relative_path":  "1-Dayly_日记本\\2026-09-10-星期四.md",
+        "baseline_sha256":  "6117FE11D8B1CF80C695218C0DACF475C77E6F4B3BF1A90E1191FBF8D0F79BF8",
+        "read_sha256":  "6117FE11D8B1CF80C695218C0DACF475C77E6F4B3BF1A90E1191FBF8D0F79BF8",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  31,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  31,
+        "read_bytes":  1556,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0123",
+        "relative_path":  "1-Dayly_日记本\\2026-09-11-星期五.md",
+        "baseline_sha256":  "E95CB48E75E660C55D7C3B90199AB92FD9FCFB8D485C4909C9D06AD33E8360CB",
+        "read_sha256":  "E95CB48E75E660C55D7C3B90199AB92FD9FCFB8D485C4909C9D06AD33E8360CB",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  68,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  68,
+        "read_bytes":  3452,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0124",
+        "relative_path":  "1-Dayly_日记本\\2026-09-12-星期六.md",
+        "baseline_sha256":  "F47CEC780F8407AD34D4A37414ECB874638ED37CCB80D3EFB8DFF32364289623",
+        "read_sha256":  "F47CEC780F8407AD34D4A37414ECB874638ED37CCB80D3EFB8DFF32364289623",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  99,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  99,
+        "read_bytes":  5217,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0125",
+        "relative_path":  "1-Dayly_日记本\\2026-09-13-星期日.md",
+        "baseline_sha256":  "22B35EFB0BD0059839115952F520BDC37BF971B310C9DC0A3EF95D406CF56E98",
+        "read_sha256":  "22B35EFB0BD0059839115952F520BDC37BF971B310C9DC0A3EF95D406CF56E98",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  54,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  54,
+        "read_bytes":  2471,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0126",
+        "relative_path":  "1-Dayly_日记本\\2026-09-14-星期一.md",
+        "baseline_sha256":  "5D3A28F69627FD95DE7A9FBFF96F4F61214A11F03C78A9B921687CA4201C8BB9",
+        "read_sha256":  "5D3A28F69627FD95DE7A9FBFF96F4F61214A11F03C78A9B921687CA4201C8BB9",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  46,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  46,
+        "read_bytes":  1495,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0127",
+        "relative_path":  "1-Dayly_日记本\\2026-09-15-星期二.md",
+        "baseline_sha256":  "C98398500BF5BE9D3DEB7A66AD57965DD4F419EB547E0D540D58E4E7C8F6B6F8",
+        "read_sha256":  "C98398500BF5BE9D3DEB7A66AD57965DD4F419EB547E0D540D58E4E7C8F6B6F8",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  89,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  89,
+        "read_bytes":  2763,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0128",
+        "relative_path":  "1-Dayly_日记本\\2026-09-16-星期三.md",
+        "baseline_sha256":  "8C4C66ABDC24A793677B0F9D276B44F14363C2206A86B5991C7713C4F1BA8BBA",
+        "read_sha256":  "8C4C66ABDC24A793677B0F9D276B44F14363C2206A86B5991C7713C4F1BA8BBA",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  121,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  121,
+        "read_bytes":  4317,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0129",
+        "relative_path":  "1-Dayly_日记本\\2026-09-17-星期四.md",
+        "baseline_sha256":  "BF11FF98D027AF900CCD408D8168CB15272579E8B7CCAA3E181930231AD3C6EB",
+        "read_sha256":  "BF11FF98D027AF900CCD408D8168CB15272579E8B7CCAA3E181930231AD3C6EB",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  41,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  41,
+        "read_bytes":  1579,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0130",
+        "relative_path":  "1-Dayly_日记本\\2026-09-18-星期五.md",
+        "baseline_sha256":  "4561017F1EE01614C8F0A0CE1402F2A5477906D079B216BAF75D1286C8550FBE",
+        "read_sha256":  "4561017F1EE01614C8F0A0CE1402F2A5477906D079B216BAF75D1286C8550FBE",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  34,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  34,
+        "read_bytes":  1178,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0131",
+        "relative_path":  "1-Dayly_日记本\\2026-09-19-星期六.md",
+        "baseline_sha256":  "51345A9BDA08EA4DDCB764AD55C40F0E6066998AA15710EFFE3D6B3685B0ABA7",
+        "read_sha256":  "51345A9BDA08EA4DDCB764AD55C40F0E6066998AA15710EFFE3D6B3685B0ABA7",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  39,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  39,
+        "read_bytes":  1658,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0132",
+        "relative_path":  "1-Dayly_日记本\\2026-09-20-星期日.md",
+        "baseline_sha256":  "5234A71AFA2B33CCB2D1251F0F1245AA6209507787AD9C4BA078FFB31D9FE151",
+        "read_sha256":  "5234A71AFA2B33CCB2D1251F0F1245AA6209507787AD9C4BA078FFB31D9FE151",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  94,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  94,
+        "read_bytes":  3520,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0133",
+        "relative_path":  "1-Dayly_日记本\\2026-09-21-星期一.md",
+        "baseline_sha256":  "9C67B3EA6106C6D79B7BEE0F7E1E84FC6C47583828328CD1E9BDD9865E22A23A",
+        "read_sha256":  "9C67B3EA6106C6D79B7BEE0F7E1E84FC6C47583828328CD1E9BDD9865E22A23A",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  45,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  45,
+        "read_bytes":  1886,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0134",
+        "relative_path":  "1-Dayly_日记本\\2026-09-22-星期二.md",
+        "baseline_sha256":  "267AEEA57C8CC1BF080732CC65677D69ACF184C47F10F1A06D5386B54A967623",
+        "read_sha256":  "267AEEA57C8CC1BF080732CC65677D69ACF184C47F10F1A06D5386B54A967623",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  84,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  84,
+        "read_bytes":  2826,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0135",
+        "relative_path":  "1-Dayly_日记本\\2026-09-23-星期三.md",
+        "baseline_sha256":  "4C48E75063B761EF95348301536E6BBB342070373A571AB01C3599D03DAE9CEC",
+        "read_sha256":  "4C48E75063B761EF95348301536E6BBB342070373A571AB01C3599D03DAE9CEC",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  78,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  78,
+        "read_bytes":  2821,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0136",
+        "relative_path":  "1-Dayly_日记本\\2026-09-24-星期四.md",
+        "baseline_sha256":  "748CB723B4C9B4FE5A64854CB57630E069FEF49D57DA7C40808EB69C119CF0DA",
+        "read_sha256":  "748CB723B4C9B4FE5A64854CB57630E069FEF49D57DA7C40808EB69C119CF0DA",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  38,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  38,
+        "read_bytes":  1760,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0137",
+        "relative_path":  "1-Dayly_日记本\\2026-09-25-星期五.md",
+        "baseline_sha256":  "D722D87010F4E296004A335D8882EB41E3E756CA644025F532441C5E0551A182",
+        "read_sha256":  "D722D87010F4E296004A335D8882EB41E3E756CA644025F532441C5E0551A182",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  30,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  30,
+        "read_bytes":  1658,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0138",
+        "relative_path":  "1-Dayly_日记本\\2026-09-26-星期六.md",
+        "baseline_sha256":  "197CB41770A8CEE846BC0223E49F95594AB8E6B88221683088C9E8B4A893D549",
+        "read_sha256":  "197CB41770A8CEE846BC0223E49F95594AB8E6B88221683088C9E8B4A893D549",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  47,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  47,
+        "read_bytes":  1586,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0139",
+        "relative_path":  "1-Dayly_日记本\\2026-09-27-星期日.md",
+        "baseline_sha256":  "29D9CE4A498BB54904EC9ED6D8218586A33C6AFFC86B744F1690BB6DF7782E0E",
+        "read_sha256":  "29D9CE4A498BB54904EC9ED6D8218586A33C6AFFC86B744F1690BB6DF7782E0E",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  61,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  61,
+        "read_bytes":  2306,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0140",
+        "relative_path":  "1-Dayly_日记本\\2026-09-28-星期一.md",
+        "baseline_sha256":  "0BCA91D4760AFBF15C154799DDC608AC48C6680ADF5C64DAE7F03325E27D2DB8",
+        "read_sha256":  "0BCA91D4760AFBF15C154799DDC608AC48C6680ADF5C64DAE7F03325E27D2DB8",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  82,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  82,
+        "read_bytes":  2837,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0141",
+        "relative_path":  "1-Dayly_日记本\\2026-09-29-星期二.md",
+        "baseline_sha256":  "5547349A0ECA05CA9BF23299B5A3987618965B69A7036A0932A6083A2F957B43",
+        "read_sha256":  "5547349A0ECA05CA9BF23299B5A3987618965B69A7036A0932A6083A2F957B43",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  60,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  60,
+        "read_bytes":  2505,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0142",
+        "relative_path":  "1-Dayly_日记本\\2026-09-30-星期三.md",
+        "baseline_sha256":  "9D24FACF3B6BF7CE90C130BE1C79026A665C17EE0473E243862CA8B36FF9706B",
+        "read_sha256":  "9D24FACF3B6BF7CE90C130BE1C79026A665C17EE0473E243862CA8B36FF9706B",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  48,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  48,
+        "read_bytes":  1908,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0143",
+        "relative_path":  "1-Dayly_日记本\\2026-10-01-星期四.md",
+        "baseline_sha256":  "9287B89597342966581A489979FE543DE2CC322F0CBC3B783FE52FAE637AD694",
+        "read_sha256":  "9287B89597342966581A489979FE543DE2CC322F0CBC3B783FE52FAE637AD694",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  64,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  64,
+        "read_bytes":  2929,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0144",
+        "relative_path":  "1-Dayly_日记本\\2026-10-02-星期五.md",
+        "baseline_sha256":  "5DC619758382865480033920599507E4DBC0E78ED7919531B4F776B97068FD3A",
+        "read_sha256":  "5DC619758382865480033920599507E4DBC0E78ED7919531B4F776B97068FD3A",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  44,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  44,
+        "read_bytes":  1456,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0145",
+        "relative_path":  "1-Dayly_日记本\\2026-10-03-星期六.md",
+        "baseline_sha256":  "702FD0B3D826C2AC985525A49EB3E89184A6A789BF237A7FDAA92A898F15A07E",
+        "read_sha256":  "702FD0B3D826C2AC985525A49EB3E89184A6A789BF237A7FDAA92A898F15A07E",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  44,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  44,
+        "read_bytes":  1739,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0146",
+        "relative_path":  "1-Dayly_日记本\\2026-10-04-星期日.md",
+        "baseline_sha256":  "7CD582C520C245D6B1AEC6576FD674107B8D9DD9435447CEFBB948992AB201BF",
+        "read_sha256":  "7CD582C520C245D6B1AEC6576FD674107B8D9DD9435447CEFBB948992AB201BF",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  25,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  25,
+        "read_bytes":  799,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0147",
+        "relative_path":  "1-Dayly_日记本\\2026-10-05-星期一.md",
+        "baseline_sha256":  "300E7A441A340A2C403F4C27481B13AB53382DD853117820E6571B1617E564D6",
+        "read_sha256":  "300E7A441A340A2C403F4C27481B13AB53382DD853117820E6571B1617E564D6",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  32,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  32,
+        "read_bytes":  1114,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0148",
+        "relative_path":  "1-Dayly_日记本\\2026-10-06-星期二.md",
+        "baseline_sha256":  "A3894F4EBD81CF12D4DB4E78ED5E68078A919F58DAC79D98398034A1E30E6AA4",
+        "read_sha256":  "A3894F4EBD81CF12D4DB4E78ED5E68078A919F58DAC79D98398034A1E30E6AA4",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  73,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  73,
+        "read_bytes":  2799,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0149",
+        "relative_path":  "1-Dayly_日记本\\2026-10-07-星期三.md",
+        "baseline_sha256":  "D78C7A5C0602B7BEA44696AAFCF6E6E521880F242E40548439D1C197AD6E2E38",
+        "read_sha256":  "D78C7A5C0602B7BEA44696AAFCF6E6E521880F242E40548439D1C197AD6E2E38",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  34,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  34,
+        "read_bytes":  1233,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0150",
+        "relative_path":  "1-Dayly_日记本\\2026-10-08-星期四.md",
+        "baseline_sha256":  "1D8443617203DBD39860C9B309372BE68D9DDBBC5D65BE7EA5D83D2927930368",
+        "read_sha256":  "1D8443617203DBD39860C9B309372BE68D9DDBBC5D65BE7EA5D83D2927930368",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  32,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  32,
+        "read_bytes":  1504,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0151",
+        "relative_path":  "1-Dayly_日记本\\2026-10-09-星期五.md",
+        "baseline_sha256":  "CF48ED53846BF6E39A19C5E08E96C74411BD67F17574199DF9F39567E1B050D5",
+        "read_sha256":  "CF48ED53846BF6E39A19C5E08E96C74411BD67F17574199DF9F39567E1B050D5",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  28,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  28,
+        "read_bytes":  1362,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0152",
+        "relative_path":  "1-Dayly_日记本\\2026-10-10-星期六.md",
+        "baseline_sha256":  "5E1E2615B31EB9EB2D851914959201ECB269126A7917DA5BA5C7EA0093BA9559",
+        "read_sha256":  "5E1E2615B31EB9EB2D851914959201ECB269126A7917DA5BA5C7EA0093BA9559",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  39,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  39,
+        "read_bytes":  1506,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0153",
+        "relative_path":  "1-Dayly_日记本\\2026-10-11-星期日.md",
+        "baseline_sha256":  "59C25AA5B2155DB12FAB637DA6E0A22C3C720CD86AD6B6C7F74CFDA741FDAC7E",
+        "read_sha256":  "59C25AA5B2155DB12FAB637DA6E0A22C3C720CD86AD6B6C7F74CFDA741FDAC7E",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  50,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  50,
+        "read_bytes":  2603,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0154",
+        "relative_path":  "1-Dayly_日记本\\2026-10-12-星期一.md",
+        "baseline_sha256":  "12A1CCEF8DBBD8E0A90063434196B8B453B97CC648A82816EEC5BF2EC9DC37B2",
+        "read_sha256":  "12A1CCEF8DBBD8E0A90063434196B8B453B97CC648A82816EEC5BF2EC9DC37B2",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  55,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  55,
+        "read_bytes":  3103,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0155",
+        "relative_path":  "1-Dayly_日记本\\2026-10-13-星期二.md",
+        "baseline_sha256":  "C232EF7D54D71CB7DC7EE3BCB63F7CA0AEEE422741104210263FFD6369318A8D",
+        "read_sha256":  "C232EF7D54D71CB7DC7EE3BCB63F7CA0AEEE422741104210263FFD6369318A8D",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  29,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  29,
+        "read_bytes":  2177,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0156",
+        "relative_path":  "1-Dayly_日记本\\2026-10-14-星期三.md",
+        "baseline_sha256":  "4FFE4625C9A666EA340E65F5AB312365BE38F99ED6BE673B33AA878F9B9B2B0B",
+        "read_sha256":  "4FFE4625C9A666EA340E65F5AB312365BE38F99ED6BE673B33AA878F9B9B2B0B",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  54,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  54,
+        "read_bytes":  3702,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0157",
+        "relative_path":  "1-Dayly_日记本\\2026-10-15-星期四.md",
+        "baseline_sha256":  "5016957CECF9DEB7841FB216ACB2F7A71F7DC9D3D8F2B5C324474C3594061000",
+        "read_sha256":  "5016957CECF9DEB7841FB216ACB2F7A71F7DC9D3D8F2B5C324474C3594061000",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  67,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  67,
+        "read_bytes":  2257,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0158",
+        "relative_path":  "1-Dayly_日记本\\2026-10-16-星期五.md",
+        "baseline_sha256":  "0C2C3C07D84DFE0BFB6B5C0CC2CE9B1DE92D08188DD0067F1BADA1B071B03FF7",
+        "read_sha256":  "0C2C3C07D84DFE0BFB6B5C0CC2CE9B1DE92D08188DD0067F1BADA1B071B03FF7",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  140,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  140,
+        "read_bytes":  6246,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0159",
+        "relative_path":  "1-Dayly_日记本\\2026-10-17-星期六.md",
+        "baseline_sha256":  "69767461011F829C96CFAD74CA20C3775E4700F93F8973FC06C1B4D33EF14F8C",
+        "read_sha256":  "69767461011F829C96CFAD74CA20C3775E4700F93F8973FC06C1B4D33EF14F8C",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  79,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  79,
+        "read_bytes":  3365,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0160",
+        "relative_path":  "1-Dayly_日记本\\2026-10-18-星期日.md",
+        "baseline_sha256":  "753EDE93C8520890503DE6B75249DA8896C2A0AC2F3EA6AA65861200A68194B7",
+        "read_sha256":  "753EDE93C8520890503DE6B75249DA8896C2A0AC2F3EA6AA65861200A68194B7",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  55,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  55,
+        "read_bytes":  3844,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0161",
+        "relative_path":  "1-Dayly_日记本\\2026-10-19-星期一.md",
+        "baseline_sha256":  "5EE5C178A89A5D71575A0DA8174F9183D380F82C349812F986EA97DCEDF04DB3",
+        "read_sha256":  "5EE5C178A89A5D71575A0DA8174F9183D380F82C349812F986EA97DCEDF04DB3",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  131,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  131,
+        "read_bytes":  5441,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0162",
+        "relative_path":  "1-Dayly_日记本\\2026-10-20-星期二.md",
+        "baseline_sha256":  "59ED272CF8509A7A5E86CB754B051600CD6DD4503A7ECBB09200A64EC2918C8D",
+        "read_sha256":  "59ED272CF8509A7A5E86CB754B051600CD6DD4503A7ECBB09200A64EC2918C8D",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  77,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  77,
+        "read_bytes":  3581,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0163",
+        "relative_path":  "1-Dayly_日记本\\2026-10-21-星期三.md",
+        "baseline_sha256":  "DDA9B909D8FD2EFEB41B053F1AB1C671918A35CD71D0097A2914D5DDE4A4D9D4",
+        "read_sha256":  "DDA9B909D8FD2EFEB41B053F1AB1C671918A35CD71D0097A2914D5DDE4A4D9D4",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  135,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  135,
+        "read_bytes":  6970,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0164",
+        "relative_path":  "1-Dayly_日记本\\2026-10-22-星期四.md",
+        "baseline_sha256":  "35C105D12940911011EB4F3A6FB0AC9FFBE9AE01816D747977010B82788BC321",
+        "read_sha256":  "35C105D12940911011EB4F3A6FB0AC9FFBE9AE01816D747977010B82788BC321",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  63,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  63,
+        "read_bytes":  2580,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0165",
+        "relative_path":  "1-Dayly_日记本\\2026-10-23-星期五.md",
+        "baseline_sha256":  "25CD252523CA10670C91DAFEB8AFE4C07D92703C8AD6AC24B17EA293D210460B",
+        "read_sha256":  "25CD252523CA10670C91DAFEB8AFE4C07D92703C8AD6AC24B17EA293D210460B",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  84,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  84,
+        "read_bytes":  3778,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0166",
+        "relative_path":  "1-Dayly_日记本\\2026-10-24-星期六.md",
+        "baseline_sha256":  "0D42A45328C4C6543FC1E1510ED23FE04B4EA71D4B93B7F896EE34E5102E4D67",
+        "read_sha256":  "0D42A45328C4C6543FC1E1510ED23FE04B4EA71D4B93B7F896EE34E5102E4D67",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  60,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  60,
+        "read_bytes":  2503,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0167",
+        "relative_path":  "1-Dayly_日记本\\2026-10-25-星期日.md",
+        "baseline_sha256":  "E06CC94D387275973E6754BA3EA3CAE6C29CB0A4C5E36F92F9E6DA1CD1933A27",
+        "read_sha256":  "E06CC94D387275973E6754BA3EA3CAE6C29CB0A4C5E36F92F9E6DA1CD1933A27",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  64,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  64,
+        "read_bytes":  3540,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0168",
+        "relative_path":  "2-Space_工作区\\0文件夹：2-Space_工作区.md",
+        "baseline_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "read_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "status":  "empty",
+        "read_ranges":  [
+
+                        ],
+        "line_count":  0,
+        "read_bytes":  0,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "现场0字节，原始字节SHA256与清单一致；无正文。"
+    },
+    {
+        "id":  "personal-0169",
+        "relative_path":  "2-Space_工作区\\21-Work_工作流\\0文件夹：21-Work_工作流.md",
+        "baseline_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "read_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "status":  "empty",
+        "read_ranges":  [
+
+                        ],
+        "line_count":  0,
+        "read_bytes":  0,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "现场0字节，原始字节SHA256与清单一致；无正文。"
+    },
+    {
+        "id":  "personal-0170",
+        "relative_path":  "2-Space_工作区\\21-Work_工作流\\工作流20260904：柜机规格书.md",
+        "baseline_sha256":  "8BA0AEC4785557B56F2D26356B164D66CA329504182B1EAFED9057979811250C",
+        "read_sha256":  "8BA0AEC4785557B56F2D26356B164D66CA329504182B1EAFED9057979811250C",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  102,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  102,
+        "read_bytes":  2852,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0171",
+        "relative_path":  "2-Space_工作区\\21-Work_工作流\\工作流20260905：奶瓶机版本2.md",
+        "baseline_sha256":  "C9FA3D57D834CD0EDC11D8EAE74C5F91F67483BA7BF6CFC39B377608B5170431",
+        "read_sha256":  "C9FA3D57D834CD0EDC11D8EAE74C5F91F67483BA7BF6CFC39B377608B5170431",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  97,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  97,
+        "read_bytes":  1828,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0172",
+        "relative_path":  "2-Space_工作区\\21-Work_工作流\\工作流20260908：60机时序验证.md",
+        "baseline_sha256":  "F2793EB7CD58679B3ED74AAC235A8DEA3FC567CF481053AB292BF12B7086060F",
+        "read_sha256":  "F2793EB7CD58679B3ED74AAC235A8DEA3FC567CF481053AB292BF12B7086060F",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  59,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  59,
+        "read_bytes":  2418,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0173",
+        "relative_path":  "2-Space_工作区\\21-Work_工作流\\工作流20260918：第二次试产前追溯.md",
+        "baseline_sha256":  "6F24BA1DFF50033DDE447939EFBD999DEE32E776441DC0666B041E365ABC974E",
+        "read_sha256":  "6F24BA1DFF50033DDE447939EFBD999DEE32E776441DC0666B041E365ABC974E",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  24,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  24,
+        "read_bytes":  648,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0174",
+        "relative_path":  "2-Space_工作区\\21-Work_工作流\\工作流20261007：广交会样机.md",
+        "baseline_sha256":  "7311A7DCE748AFC32C4C680301D874D70253D19A1010891EC9A43DBBEDCDE232",
+        "read_sha256":  "7311A7DCE748AFC32C4C680301D874D70253D19A1010891EC9A43DBBEDCDE232",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  144,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  144,
+        "read_bytes":  5963,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0175",
+        "relative_path":  "2-Space_工作区\\21-Work_工作流\\工作流20261014：独立式自动开门开发.md",
+        "baseline_sha256":  "ED4403024324D09DBAF123293D34E8F993406CAE07B0E2704243B6EA95719016",
+        "read_sha256":  "ED4403024324D09DBAF123293D34E8F993406CAE07B0E2704243B6EA95719016",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  180,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  180,
+        "read_bytes":  6355,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0176",
+        "relative_path":  "2-Space_工作区\\22-Flow_心流\\0文件夹：22-Flow_心流.md",
+        "baseline_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "read_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "status":  "empty",
+        "read_ranges":  [
+
+                        ],
+        "line_count":  0,
+        "read_bytes":  0,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "现场0字节，原始字节SHA256与清单一致；无正文。"
+    },
+    {
+        "id":  "personal-0177",
+        "relative_path":  "2-Space_工作区\\22-Flow_心流\\心流20260831：插件应用.md",
+        "baseline_sha256":  "F8F2E13F3E1297C2BEAAF5EAFD8502B4568BDC7E014FB39B6613B4832FA0EDB9",
+        "read_sha256":  "F8F2E13F3E1297C2BEAAF5EAFD8502B4568BDC7E014FB39B6613B4832FA0EDB9",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  44,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  44,
+        "read_bytes":  1309,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0178",
+        "relative_path":  "2-Space_工作区\\22-Flow_心流\\心流20260914：快捷键重构.md",
+        "baseline_sha256":  "36F1FFA76C6CE1A9C42D5A490EF5880BA76E442183BE55346FFD09FFBFACB2E8",
+        "read_sha256":  "36F1FFA76C6CE1A9C42D5A490EF5880BA76E442183BE55346FFD09FFBFACB2E8",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  59,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  59,
+        "read_bytes":  1575,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0179",
+        "relative_path":  "2-Space_工作区\\22-Flow_心流\\心流20260917：构建线.md",
+        "baseline_sha256":  "3A7155FF83D6C8501547A06C02BA960BF802268F84A3A1482FE57CBFA8D50DEA",
+        "read_sha256":  "3A7155FF83D6C8501547A06C02BA960BF802268F84A3A1482FE57CBFA8D50DEA",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  87,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  87,
+        "read_bytes":  2251,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0180",
+        "relative_path":  "2-Space_工作区\\22-Flow_心流\\心流20260923：管理者易主.md",
+        "baseline_sha256":  "D10AF9C119AB280F22C6051D52D6DA7A216AC7C7A893D7BF80F8C8744B134FB2",
+        "read_sha256":  "D10AF9C119AB280F22C6051D52D6DA7A216AC7C7A893D7BF80F8C8744B134FB2",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  78,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  78,
+        "read_bytes":  2658,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0181",
+        "relative_path":  "2-Space_工作区\\22-Flow_心流\\心流20260924：Agent体系认知.md",
+        "baseline_sha256":  "C0A0E752956CB823696AD74C8EFFE9068D15BCE400FAA129B02940628D3D1102",
+        "read_sha256":  "C0A0E752956CB823696AD74C8EFFE9068D15BCE400FAA129B02940628D3D1102",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  15,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  15,
+        "read_bytes":  430,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0182",
+        "relative_path":  "2-Space_工作区\\22-Flow_心流\\心流20261022：台式copilot pro+.md",
+        "baseline_sha256":  "0865E67ACD37F4789ABDD56B949E93731066EF7DB984A6819BF6BAD56ADA5C18",
+        "read_sha256":  "0865E67ACD37F4789ABDD56B949E93731066EF7DB984A6819BF6BAD56ADA5C18",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  170,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  170,
+        "read_bytes":  4109,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0183",
+        "relative_path":  "2-Space_工作区\\23-Favorites_收藏夹\\0文件夹：23-Favorites_收藏夹.md",
+        "baseline_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "read_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "status":  "empty",
+        "read_ranges":  [
+
+                        ],
+        "line_count":  0,
+        "read_bytes":  0,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "现场0字节，原始字节SHA256与清单一致；无正文。"
+    },
+    {
+        "id":  "personal-0184",
+        "relative_path":  "2-Space_工作区\\23-Favorites_收藏夹\\收藏夹20260826：手柄设置.md",
+        "baseline_sha256":  "FFCBD76A9DF5BC1B6DBC9F6D35422710D5A859E3423582F0E70FD084C9BF0F42",
+        "read_sha256":  "FFCBD76A9DF5BC1B6DBC9F6D35422710D5A859E3423582F0E70FD084C9BF0F42",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  160,
+                                "inclusive":  true,
+                                "method":  "functions.view explicit range"
+                            },
+                            {
+                                "unit":  "line",
+                                "start":  161,
+                                "end":  320,
+                                "inclusive":  true,
+                                "method":  "functions.view explicit range"
+                            }
+                        ],
+        "line_count":  320,
+        "read_bytes":  9487,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0185",
+        "relative_path":  "2-Space_工作区\\23-Favorites_收藏夹\\收藏夹20260829：轻弩切换虫棍.md",
+        "baseline_sha256":  "336E33E558F97AF49E6E91AD8137EA9451FE45E5686654B42629366E25E6FA15",
+        "read_sha256":  "336E33E558F97AF49E6E91AD8137EA9451FE45E5686654B42629366E25E6FA15",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  34,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  34,
+        "read_bytes":  1016,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0186",
+        "relative_path":  "2-Space_工作区\\23-Favorites_收藏夹\\收藏夹20260909：荒野复习与凌越资讯.md",
+        "baseline_sha256":  "E08AD9FAB7E3E48CB709E4C1EACB5B919CE803767EF56683C6AE39A7932D9C4A",
+        "read_sha256":  "E08AD9FAB7E3E48CB709E4C1EACB5B919CE803767EF56683C6AE39A7932D9C4A",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  10,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  10,
+        "read_bytes":  278,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0187",
+        "relative_path":  "2-Space_工作区\\23-Favorites_收藏夹\\收藏夹20261001：共振体验.md",
+        "baseline_sha256":  "98BE378BC4C97AB0AED261DDEA02DF5FA301E24686F2046CFB43B59CD520C1D9",
+        "read_sha256":  "98BE378BC4C97AB0AED261DDEA02DF5FA301E24686F2046CFB43B59CD520C1D9",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  34,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  34,
+        "read_bytes":  1028,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0188",
+        "relative_path":  "2-Space_工作区\\23-Favorites_收藏夹\\收藏夹20261020：SteamInput.md",
+        "baseline_sha256":  "000015441CF326CD8683B12F9CB4B1C41B88A6A644F0170021BEE9FF0C96C0D7",
+        "read_sha256":  "000015441CF326CD8683B12F9CB4B1C41B88A6A644F0170021BEE9FF0C96C0D7",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  8,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  8,
+        "read_bytes":  242,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0189",
+        "relative_path":  "2-Space_工作区\\23-Favorites_收藏夹\\账单：10月支出明细.md",
+        "baseline_sha256":  "211E984F58800B9B4B489201812A1BDE31523AC82C8274DBB206085FE092EFB5",
+        "read_sha256":  "211E984F58800B9B4B489201812A1BDE31523AC82C8274DBB206085FE092EFB5",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  120,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  120,
+        "read_bytes":  2630,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0190",
+        "relative_path":  "2-Space_工作区\\23-Favorites_收藏夹\\账单：9月支出明细.md",
+        "baseline_sha256":  "9FE0B520A4EF21FE0FE9AD9B6C9846A24E58B81712702B739BDE1928605CBB90",
+        "read_sha256":  "9FE0B520A4EF21FE0FE9AD9B6C9846A24E58B81712702B739BDE1928605CBB90",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  149,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  149,
+        "read_bytes":  3488,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0475",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\0文件夹：44-Archives_归档.md",
+        "baseline_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "read_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "status":  "empty",
+        "read_ranges":  [
+
+                        ],
+        "line_count":  0,
+        "read_bytes":  0,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "现场0字节，原始字节SHA256与清单一致；无正文。"
+    },
+    {
+        "id":  "personal-0476",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-a-raw_原始素材\\0文件夹：44-a-raw_原始素材.md",
+        "baseline_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "read_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "status":  "empty",
+        "read_ranges":  [
+
+                        ],
+        "line_count":  0,
+        "read_bytes":  0,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "现场0字节，原始字节SHA256与清单一致；无正文。"
+    },
+    {
+        "id":  "personal-0477",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\0文件夹：44-b-Mooniy_月档案.md",
+        "baseline_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "read_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "status":  "empty",
+        "read_ranges":  [
+
+                        ],
+        "line_count":  0,
+        "read_bytes":  0,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "现场0字节，原始字节SHA256与清单一致；无正文。"
+    },
+    {
+        "id":  "personal-0478",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\2026-07~2026-08\\2026-07-14-星期二.md",
+        "baseline_sha256":  "54299A185AC4D169361467D3F3F42D76BFDD74F762899D49F0AE3C28CB13E5B8",
+        "read_sha256":  "54299A185AC4D169361467D3F3F42D76BFDD74F762899D49F0AE3C28CB13E5B8",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  17,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  17,
+        "read_bytes":  288,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0479",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\2026-07~2026-08\\2026-07-15-星期三.md",
+        "baseline_sha256":  "F6CCEE67BBC815FD8BAAB5586E4C32D2CBB7029EA15C3B77928AC05B7A4432B7",
+        "read_sha256":  "F6CCEE67BBC815FD8BAAB5586E4C32D2CBB7029EA15C3B77928AC05B7A4432B7",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  22,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  22,
+        "read_bytes":  844,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0480",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\2026-07~2026-08\\2026-07-16-星期四.md",
+        "baseline_sha256":  "57B76C7B1EBA9F5B4F9AEEABA31B7EE9668E3E62FC10C2D68984B144B96A6285",
+        "read_sha256":  "57B76C7B1EBA9F5B4F9AEEABA31B7EE9668E3E62FC10C2D68984B144B96A6285",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  19,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  19,
+        "read_bytes":  600,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0481",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\2026-07~2026-08\\2026-07-17-星期五.md",
+        "baseline_sha256":  "4386A6C5126133E224D42D530F21A4D441425277BBBDAD169A00F37962197445",
+        "read_sha256":  "4386A6C5126133E224D42D530F21A4D441425277BBBDAD169A00F37962197445",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  18,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  18,
+        "read_bytes":  520,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0482",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\2026-07~2026-08\\2026-07-18-星期六.md",
+        "baseline_sha256":  "F8F4F359F3EAD88E27452CDAD8EF05CFC444E773FF54E86540FFA5DABF8FB7AC",
+        "read_sha256":  "F8F4F359F3EAD88E27452CDAD8EF05CFC444E773FF54E86540FFA5DABF8FB7AC",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  18,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  18,
+        "read_bytes":  407,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0483",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\2026-07~2026-08\\2026-07-19-星期日.md",
+        "baseline_sha256":  "B2DC458E5DC6B933CD10977E9D8F85CF0DDAEE333004FC6471691F5EAE8F24D9",
+        "read_sha256":  "B2DC458E5DC6B933CD10977E9D8F85CF0DDAEE333004FC6471691F5EAE8F24D9",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  26,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  26,
+        "read_bytes":  753,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0484",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\2026-07~2026-08\\2026-07-20-星期一.md",
+        "baseline_sha256":  "B8EDEAC88621AFC6AF34C679A3EE8DEA195A960FC34E42D08248DE4142880006",
+        "read_sha256":  "B8EDEAC88621AFC6AF34C679A3EE8DEA195A960FC34E42D08248DE4142880006",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  22,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  22,
+        "read_bytes":  869,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0485",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\2026-07~2026-08\\2026-07-21-星期二.md",
+        "baseline_sha256":  "85220EDB018F41C628A6395D7843BE528D001A8CF4E032D812E484646A5F74DF",
+        "read_sha256":  "85220EDB018F41C628A6395D7843BE528D001A8CF4E032D812E484646A5F74DF",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  22,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  22,
+        "read_bytes":  704,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0486",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\2026-07~2026-08\\2026-07-22-星期三.md",
+        "baseline_sha256":  "0154940D68635EBA8350CE16F54CD0B909D0E19841E87A6C9AD6D558C46D4C15",
+        "read_sha256":  "0154940D68635EBA8350CE16F54CD0B909D0E19841E87A6C9AD6D558C46D4C15",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  26,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  26,
+        "read_bytes":  746,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0487",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\2026-07~2026-08\\2026-07-23-星期四.md",
+        "baseline_sha256":  "9A2C4DC98C81807030C5FD84B5992D77362DAAA06974488E5714C8C0A6EC068C",
+        "read_sha256":  "9A2C4DC98C81807030C5FD84B5992D77362DAAA06974488E5714C8C0A6EC068C",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  30,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  30,
+        "read_bytes":  910,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0488",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\2026-07~2026-08\\2026-07-24-星期五.md",
+        "baseline_sha256":  "3CBB57D6C7CB9CA3FD202A8CB9DEC24FE45A718378FC8C906F90CBB465BA2F27",
+        "read_sha256":  "3CBB57D6C7CB9CA3FD202A8CB9DEC24FE45A718378FC8C906F90CBB465BA2F27",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  22,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  22,
+        "read_bytes":  722,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0489",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\2026-07~2026-08\\2026-07-25-星期六.md",
+        "baseline_sha256":  "EB76D7DB613ADFB8EA122E7D66ED147E526DAC5C3422E112B1BB257BEA0E2115",
+        "read_sha256":  "EB76D7DB613ADFB8EA122E7D66ED147E526DAC5C3422E112B1BB257BEA0E2115",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  29,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  29,
+        "read_bytes":  946,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0490",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\2026-07~2026-08\\2026-07-26-星期日.md",
+        "baseline_sha256":  "E0BFDFB8D56AABB349FF616122AFC3189A3E805F289A79E79A450B72AEAB9A27",
+        "read_sha256":  "E0BFDFB8D56AABB349FF616122AFC3189A3E805F289A79E79A450B72AEAB9A27",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  20,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  20,
+        "read_bytes":  491,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0491",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\2026-07~2026-08\\2026-07-27-星期一.md",
+        "baseline_sha256":  "57C1CBAF7569498194185C376D62C7E5DE25C6A7DB81FBC2167DCF5015AC8F4B",
+        "read_sha256":  "57C1CBAF7569498194185C376D62C7E5DE25C6A7DB81FBC2167DCF5015AC8F4B",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  22,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  22,
+        "read_bytes":  681,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0492",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\2026-07~2026-08\\2026-07-28-星期二.md",
+        "baseline_sha256":  "3FF9D309D84A39C49A692AFE6A458CDFC292E87C5EFED1B7AB160FA3F5B243B8",
+        "read_sha256":  "3FF9D309D84A39C49A692AFE6A458CDFC292E87C5EFED1B7AB160FA3F5B243B8",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  23,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  23,
+        "read_bytes":  930,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0493",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\2026-07~2026-08\\2026-07-29-星期三.md",
+        "baseline_sha256":  "442ECEA9ED85A9DB8D997CA44299B10D850D6757E1D4A66F313C5C03F09F1B55",
+        "read_sha256":  "442ECEA9ED85A9DB8D997CA44299B10D850D6757E1D4A66F313C5C03F09F1B55",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  19,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  19,
+        "read_bytes":  510,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0494",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\2026-07~2026-08\\2026-07-30-星期四.md",
+        "baseline_sha256":  "41E245C810729B6562C9C72AE2953B495DFFBAB19B4543154519867605DAE142",
+        "read_sha256":  "41E245C810729B6562C9C72AE2953B495DFFBAB19B4543154519867605DAE142",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  36,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  36,
+        "read_bytes":  1304,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0495",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-b-Mooniy_月档案\\2026-07~2026-08\\2026-07-31-星期五.md",
+        "baseline_sha256":  "BA6454385C20FBF203D3F257B75F68E558655E6B8D16599474A6938A19FC089B",
+        "read_sha256":  "BA6454385C20FBF203D3F257B75F68E558655E6B8D16599474A6938A19FC089B",
+        "status":  "full",
+        "read_ranges":  [
+                            {
+                                "unit":  "line",
+                                "start":  1,
+                                "end":  16,
+                                "inclusive":  true,
+                                "method":  "functions.view entire file to EOF"
+                            }
+                        ],
+        "line_count":  16,
+        "read_bytes":  444,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "正文已完整呈现在研读上下文并逐篇阅读；状态并非由文件API成功推定。读取前、全部研读后原始字节SHA256均与清单一致。"
+    },
+    {
+        "id":  "personal-0496",
+        "relative_path":  "4-Memory_知识库\\44-Archives_归档\\44-c-Done_闭环\\0文件夹：44-c-Done_闭环.md",
+        "baseline_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "read_sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "status":  "empty",
+        "read_ranges":  [
+
+                        ],
+        "line_count":  0,
+        "read_bytes":  0,
+        "encoding":  "UTF-8 (strict decode)",
+        "baseline_matches_read":  true,
+        "read_evidence":  "现场0字节，原始字节SHA256与清单一致；无正文。"
+    }
+]
