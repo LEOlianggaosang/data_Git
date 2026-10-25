@@ -7,4 +7,4 @@ instructions in `.github/instructions/mermaid.instructions.md`.
 
 ## Knowledge base rules
 
-Before changing this repository, read and follow the root [`AGENT.md`](../AGENT.md). Keep [`INDEX.md`](../INDEX.md) and [`90_系统/变更记录.md`](../90_系统/变更记录.md) synchronized as required there.
+Before changing this repository, read and follow the root [`AGENT.md`](../AGENT.md). Update navigation and logs only when its corresponding triggers apply.

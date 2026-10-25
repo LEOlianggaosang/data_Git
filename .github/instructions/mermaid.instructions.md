@@ -1,5 +1,6 @@
 ---
-applyTo: "**"
+description: "Use when creating, editing, validating, or previewing Mermaid diagrams, including Mermaid blocks in Markdown."
+applyTo: "**/*.mmd,**/*.mermaid"
 ---
 # Mermaid AI Skills
 
