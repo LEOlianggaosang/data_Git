@@ -1,0 +1,13 @@
+flowchart TD
+    C["Capture · 收集"] --> O["Organize · PARA 归位"]
+    O --> D["Distill · 提炼"]
+    D --> E["Express · 行动与输出"]
+    E --> V["核验与精简复盘"]
+    V --> Q{"有实质变更？"}
+    Q -->|是| L["Daily Notes 与 Agent 共用日记录"]
+    L --> U["按需更新导航与更改摘要"]
+    U --> N["下一轮输入"]
+    Q -->|否| N
+    N -.-> C
+    O -.->|不再活跃| A["Archives · 归档"]
+    A -.->|重新启用| O
