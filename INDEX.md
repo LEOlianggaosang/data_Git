@@ -16,6 +16,7 @@ created: 2026-10-26
 │   ├── instructions
 │   └── skills
 │       ├── inbox-workflow
+│       ├── lgx-rebuild
 │       └── session-records
 ├── .obsidian
 ├── .vscode
