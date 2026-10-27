@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"type\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -162,15 +164,15 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,12 +187,41 @@
   },
   "active": "f2af6639484b9dc9",
   "lastOpenFiles": [
-    "vscode~5E37A.tmp",
-    "vscode~57B2A.tmp",
-    "vscode~52E24.tmp",
-    "vscode~66671.tmp",
-    "vscode~2C712.tmp",
-    "vibecoding~7E305.tmp",
-    "vscode~7DC10.tmp"
+    "00_收集/个人看板/理念.md",
+    "00_收集/个人看板/概念.md",
+    "00_收集/个人看板/重建.md",
+    "00_收集/暂存资料/work.docx",
+    "00_收集/暂存资料/vscode.docx",
+    "00_收集/暂存资料/vibecoding.docx",
+    "00_收集/暂存资料/gitbash.docx",
+    "00_收集/暂存资料/git.docx",
+    "00_收集/待办事项/智能体自定义能力变化与快照.md",
+    "00_收集/待办事项/个人知识库整理经验沉淀.md",
+    "90_系统/会话记录/2026-10-27_1920_收件箱分类与登记概念.md",
+    "00_收集/暂存资料/暂存资料.md",
+    "00_收集/暂存资料",
+    "00_收集/待办事项/待办事项.md",
+    "00_收集/待办事项",
+    "00_收集/个人看板/个人看板.md",
+    "00_收集/个人看板",
+    "10_项目/知识流动设计/项目总览.md",
+    "10_项目/知识流动设计",
+    "20_领域/工作流维护/工作流维护.md",
+    "20_领域/工作流维护",
+    "90_系统/会话记录/2026-10-27_1745_工作流维护.md",
+    "10_项目/元数据维护与解析/项目总览.md",
+    "90_系统/会话记录/2026-10-27_1729_知识管理领域.md",
+    "20_领域/知识管理/知识管理.md",
+    "10_项目/Agent知识库建库/建库过程与方法.md",
+    "20_领域/知识库维护/本库命名规则.md",
+    "20_领域/知识库维护/个人知识库维护.md",
+    "20_领域/灵感库维护/个人知识库维护.md",
+    "20_领域/规则库维护/本库命名规则.md",
+    "90_系统/会话记录/2026-10-27_1627_整理命名规则.md",
+    "10_项目/Agent知识库建库/重建经历与概念抽象.md",
+    "DIFF.md",
+    "INDEX.md",
+    "PLAN.md",
+    "README.md"
   ]
 }
