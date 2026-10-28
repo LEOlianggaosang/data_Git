@@ -16,10 +16,14 @@ created: 2026-10-26
 │   ├── instructions
 │   └── skills
 │       ├── inbox-workflow
+│       ├── lgx-agent
+│       │   └── references
+│       ├── lgx-flow
 │       ├── lgx-plan
 │       │   └── references
 │       ├── lgx-rebuild
 │       ├── lgx-skill
+│       │   └── references
 │       └── session-records
 ├── .obsidian
 ├── .vscode
