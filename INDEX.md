@@ -11,9 +11,7 @@ created: 2026-10-26
 
 ```text
 .
-├── .git
-├── .github
-│   ├── instructions
+├── .agents
 │   └── skills
 │       ├── inbox-workflow
 │       ├── lgx-agent
@@ -25,6 +23,9 @@ created: 2026-10-26
 │       ├── lgx-skill
 │       │   └── references
 │       └── session-records
+├── .git
+├── .github
+│   └── instructions
 ├── .obsidian
 ├── .vscode
 ├── 00_Inbox
